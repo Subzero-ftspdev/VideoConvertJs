@@ -13,6 +13,16 @@
 ```sh
 npm install
 ```
+## Package's used
+
+```sh
+Hound - https://www.npmjs.com/package/hound
+handbrake-js - https://www.npmjs.com/package/handbrake-js
+nanospinner - https://www.npmjs.com/package/nanospinner
+chalk - https://www.npmjs.com/package/chalk
+figlet - https://www.npmjs.com/package/figlet
+```
+
 
 ## Author
 
