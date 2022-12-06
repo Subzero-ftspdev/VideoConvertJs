@@ -7,7 +7,7 @@ const chalk = require('chalk');
 const path = require('path');
 var figlet = require('figlet');
 var watcher = hound.watch(__dirname + '/videos');
-figlet('VideoConverterJS', function(err, data) {
+figlet('VideoConvertJs', function(err, data) {
     if (err) {
         console.log('Something went wrong...');
         return;
