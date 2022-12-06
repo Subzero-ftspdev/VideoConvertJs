@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to videoconverterjs 👋</h1>
+<h1 align="center">Welcome to videoconvertJs 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Watch a directory for new video files and automaticly convert them to 1080p/720p
+> Watch a directory for new video files and automaticly convert them to 1080p/720p using NodeJs
 
 ## Install
 
