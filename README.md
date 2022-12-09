@@ -38,6 +38,13 @@ figlet - https://www.npmjs.com/package/figlet
 
 * Github: [@Subzero-ftspdev](https://github.com/Subzero-ftspdev)
 
+## Contributors
+
+<a href="https://github.com/Subzero-ftspdev/VideoConvertJs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Subzero-ftspdev/VideoConvertJs" />
+</a>
+
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
