@@ -13,7 +13,15 @@
 ```sh
 npm install
 ```
-## Package's used
+
+## Usage
+
+In the terminal, `cd` to your directory of choice and run the following:
+```sh
+node index.js
+```
+
+## Packages used
 
 ```sh
 Hound - https://www.npmjs.com/package/hound
